@@ -7,5 +7,6 @@
         <page name='04.Bool'/>
         <page name='05.Numeric_1'/>
         <page name='06.Numeric_2'/>
+        <page name='07.Array_1'/>
     </pages>
 </playground>
