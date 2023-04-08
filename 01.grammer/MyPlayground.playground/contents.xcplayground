@@ -4,5 +4,6 @@
         <page name='01.변수,상수'/>
         <page name='02.Type'/>
         <page name='03.String'/>
+        <page name='04.Bool'/>
     </pages>
 </playground>
