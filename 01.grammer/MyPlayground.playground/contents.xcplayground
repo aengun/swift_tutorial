@@ -9,5 +9,7 @@
         <page name='06.Numeric_2'/>
         <page name='07.Array_1'/>
         <page name='08.Array_2'/>
+        <page name='09.Set_1'/>
+        <page name='10.Set_2'/>
     </pages>
 </playground>
