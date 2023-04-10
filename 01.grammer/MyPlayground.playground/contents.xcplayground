@@ -11,5 +11,6 @@
         <page name='08.Array_2'/>
         <page name='09.Set_1'/>
         <page name='10.Set_2'/>
+        <page name='11.Counted Set'/>
     </pages>
 </playground>
