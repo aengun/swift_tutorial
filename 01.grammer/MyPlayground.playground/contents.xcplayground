@@ -13,5 +13,6 @@
         <page name='10.Set_2'/>
         <page name='11.Counted Set'/>
         <page name='12.Dictionary'/>
+        <page name='13.Tuple'/>
     </pages>
 </playground>
