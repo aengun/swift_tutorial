@@ -15,5 +15,6 @@
         <page name='12.Dictionary'/>
         <page name='13.Tuple'/>
         <page name='14.Optional_1'/>
+        <page name='15.Optional_2'/>
     </pages>
 </playground>
