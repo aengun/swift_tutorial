@@ -20,5 +20,7 @@
         <page name='17.Operators_1'/>
         <page name='18.Operators_2'/>
         <page name='19.Unicode'/>
+        <page name='20.ControlFlow_1'/>
+        <page name='21.ControlFlow_2'/>
     </pages>
 </playground>
