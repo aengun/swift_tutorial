@@ -26,5 +26,9 @@
         <page name='23.Fuction_1'/>
         <page name='24.Function_2'/>
         <page name='25.Closure_1'/>
+        <page name='26.Closure_2'/>
+        <page name='27.Closure_3'/>
+        <page name='28.Closure_4'/>
+        <page name='29.Enum'/>
     </pages>
 </playground>
