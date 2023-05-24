@@ -30,5 +30,6 @@
         <page name='27.Closure_3'/>
         <page name='28.Closure_4'/>
         <page name='29.Enum'/>
+        <page name='30.Class vs Struct'/>
     </pages>
 </playground>
